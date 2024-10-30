@@ -9,8 +9,8 @@ Guessing game with modal and clean theme
 This was the project that made everything clearer to me regarding how to work with "Math" and especially "Math.random()" which is widely used for logic even in my current projects.
 
 
-
-https://samamedejones.github.io/calculadora-de-imc/
+link:
+https://samamedejones.github.io/guessing-game/
 
 
 
